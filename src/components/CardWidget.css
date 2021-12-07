@@ -1,0 +1,8 @@
+.icon{
+    display: flex;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 55px;
+    margin-top: 5px;
+    color: white;
+}
