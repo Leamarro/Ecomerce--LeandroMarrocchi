@@ -1,12 +1,13 @@
 import React from "react"
+import ItemCount from "./ItemCount"
 
-function ItemListContainer ({ saludo }) {
+function ItemListContainer () {
     return (
-     <h2>{saludo}</h2>
+     <ItemCount  />
     )
   }
   
 
-  export default ItemListContainer 
+  export default ItemListContainer
 
 
