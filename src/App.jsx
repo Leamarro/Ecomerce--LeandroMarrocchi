@@ -11,7 +11,6 @@ function App() {
         <React.Fragment>
         <NavBar/>
         <ItemListContainer/>
-        <ItemCount />
         </React.Fragment>
         </div>
   )

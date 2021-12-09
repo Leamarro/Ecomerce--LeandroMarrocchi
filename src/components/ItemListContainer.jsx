@@ -1,9 +1,12 @@
 import React from "react"
 import ItemCount from "./ItemCount"
+import ItemList from "./ItemList"
 
 function ItemListContainer () {
     return (
-     <ItemCount  />
+      <div>
+        <ItemList/>
+        </div>
     )
   }
   

@@ -1,0 +1,15 @@
+.tarjeta{
+    display: flex;
+}
+.card{
+    display: flex;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: solid black 1px;
+}
+.card-img-top{
+    display: flex;
+    margin-left: 35px;
+    width: 230px;
+}
